@@ -21,7 +21,7 @@ his [`parseUri`](http://stevenlevithan.com/demo/parseuri/js/) function that used
 do all of the hard work.
 
 ### Installation
-	npm install uri
+	npm install uri-parser
 
 ### Using the Module
 The 'uri-parser' module is accessed in the standard way by calling `require("uri-parser");` and once loaded 
