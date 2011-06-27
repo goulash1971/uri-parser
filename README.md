@@ -46,7 +46,7 @@ Creates a *complete* URI definition from its components
 Formats an URI definition into a well-formed URI string
 
 #### Function `uri-parser.parse`
-The `parse` function is a proxy to the `Parser.parse(uriStrm, strictMode)` method on a singleton `Parser`
+The `parse` function is a proxy to the `Parser.parse(uriStr, strictMode)` method on a singleton `Parser`
 instance that is created for the module.
 
 #### Function `uri-parser.complete`
